@@ -1,0 +1,25 @@
+{
+  "name": "wp-posts-slider-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wp-posts-slider.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basioni/wp-posts-slider-block.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basioni/wp-posts-slider-block/issues"
+  },
+  "homepage": "https://github.com/basioni/wp-posts-slider-block#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^24.5.0"
+  }
+}
